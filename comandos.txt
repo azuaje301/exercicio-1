@@ -1,0 +1,5 @@
+git init - Cria um novo repositório Git local.
+git add -  Adiciona arquivos ao stage.
+git commit - Cria um commit com as alterações.
+git branch -M main - Renomeia a branch principal para 'main'.
+git remote add origin <url-do-repo> - Conecta o repositório local ao GitHub.
